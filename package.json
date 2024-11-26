@@ -1,0 +1,19 @@
+{
+  "name": "@gravitek/svg-icons",
+  "version": "1.0.0",
+  "description": "Hardcoded svg icons for common tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gravitek-io/npm-svg-icons"
+  },
+  "keywords": [
+    "svg",
+    "icons"
+  ],
+  "author": "thomas@gravitek.io",
+  "license": "Apache-2.0"
+}
